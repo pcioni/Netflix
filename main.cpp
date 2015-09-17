@@ -1,9 +1,3 @@
-// ==================================================================
-// Important Note: You are encouraged to read through this provided
-//   code carefully and follow this structure.  You may modify the
-//   file as needed to complete your implementation.
-// ==================================================================
-
 #include <fstream>
 #include <iostream>
 #include <string>
